@@ -52,7 +52,7 @@ h3 {
 }
 
 span {
-  color: yellow;
+  color: rgb(0, 181, 247);
   text-decoration: underline;
 }
 
@@ -68,6 +68,10 @@ button {
   font-size: 13px;
   cursor: pointer;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  color: black;
 }
 
 @media screen and (max-width: 1024px) {
