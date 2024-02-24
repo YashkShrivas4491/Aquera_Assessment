@@ -1,5 +1,5 @@
 # Star Wars Planets React App
-
+Deployment Link : https://aquera-assessment.vercel.app/
 This React application displays information about planets in the Star Wars universe.
 
 ## Features
