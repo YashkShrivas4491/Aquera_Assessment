@@ -1,4 +1,5 @@
 # Star Wars Planets React App
+- ![Vite-React (2)](https://github.com/YashkShrivas4491/Aquera_Assessment/assets/87111197/6d277709-6241-44c3-ba45-1d91cae15c8d)
 Deployment Link : https://aquera-assessment.vercel.app/
 This React application displays information about planets in the Star Wars universe.
 
@@ -10,6 +11,7 @@ This React application displays information about planets in the Star Wars unive
 - Allows users to view residents of each planet.
 - Improve the Performance of the React Website by using the Lazy Loading Feature.
 - Great UI Exp with Responsive App.
+
 
 ## Tech-Stack Used
 
